@@ -1,1 +1,1 @@
-This is my udacity DLND project.
+This is my project repo.
